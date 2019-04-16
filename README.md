@@ -1,0 +1,1 @@
+# Recopilación de sentencias SQL para SQL Server
